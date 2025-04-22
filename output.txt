@@ -1,0 +1,28 @@
+Method: SVD
+Training Time: 2.3078 seconds
+Authentication Time: 0.7066 seconds
+Accuracy: 0.7647
+
+
+Method: Krasulina
+Training Time: 33.5984 seconds
+Authentication Time: 0.6932 seconds
+Accuracy: 0.7059
+
+
+Method: Oja
+Training Time: 3.5342 seconds
+Authentication Time: 0.6958 seconds
+Accuracy: 0.7059
+
+
+Method: Sanger
+Training Time: 5.4232 seconds
+Authentication Time: 0.6999 seconds
+Accuracy: 0.3529
+
+
+Method: Sanger-Opt
+Training Time: 22.5101 seconds
+Authentication Time: 0.6948 seconds
+Accuracy: 0.7059
